@@ -7,7 +7,7 @@ public class IfElse {
             JOptionPane.showMessageDialog(null, "Aprovado");   
         }
         else{
-            JOptionPane.showMessageDialog(null, "Reprovado")
+            JOptionPane.showMessageDialog(null, "Reprovado");
         }
     }
 }
