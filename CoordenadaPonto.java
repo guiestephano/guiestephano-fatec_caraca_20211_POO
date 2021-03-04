@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Exercicio 01
 public class CoordenadaPonto {
     public static void main(String [] args){
         float X, Y;

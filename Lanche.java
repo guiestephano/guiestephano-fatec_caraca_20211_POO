@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//Exercicio 01
 public class Lanche {
     public static void main(String [] args){
         float A, B;
